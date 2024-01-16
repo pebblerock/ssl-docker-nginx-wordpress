@@ -1,6 +1,6 @@
 # Managing SSL Certificates with Docker and Certbot
 
-This process shows how to renew your SSL certificate and setting up an automated renewal system. I used this method to renew an expired LetsEncrypt certificate for my [website](https://freecloudcredits.com/)
+This process shows how to renew your SSL certificate and setting up an automated renewal system. I used this method to renew an expired LetsEncrypt certificate for my [website](https://freecloudcredits.com/).
 
 ### 1. Running the Certbot Container for Renewal
 
